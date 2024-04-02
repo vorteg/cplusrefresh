@@ -12,3 +12,6 @@ int main() {
 
     return 0;
 }
+
+//Ojo que hay que compilar todo junto 
+// g++ -o 9_headers_second/main 9_headers_second/main.cpp 9_headers_second/person.cpp 
